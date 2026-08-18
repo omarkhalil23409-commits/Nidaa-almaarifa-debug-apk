@@ -1,0 +1,6 @@
+{
+  "name": "إذاعة نداء المعرفة",
+  "description": "تطبيق إذاعة نداء المعرفة الرسمي للبث المباشر والموجات الإذاعية 91.1 - 91.3 - 91.5 FM مع جدول البرامج ومواقيت الصلاة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
